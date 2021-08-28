@@ -1,0 +1,5 @@
+add robots.txt
+User-agent:*
+Disallow: /assets
+Disallow: /src
+Disallow: /vendor
